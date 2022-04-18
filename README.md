@@ -1,5 +1,5 @@
-- 안녕하세요
-- 지상최강의 개발자가 되고싶은 남자
+안녕하세요
+지상최강의 개발자가 되고싶은 남자
 
 <!---
 qkrgks456/qkrgks456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
