@@ -1,5 +1,5 @@
-안녕하세요
-지상최강의 개발자가 되고싶은 남자
+컴퓨터가 이해할 수 있는 코드는 어느 바보나 다 짤 수 있다.
+좋은 프로그래머는 사람이 이해할 수 있는 코드를 짠다.
 
 <!---
 qkrgks456/qkrgks456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
